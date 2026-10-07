@@ -8,10 +8,27 @@
 
 ## 앱 화면
 
-| 노트 편집 | 설교 노트 AI 분석 | 성경 본문 AI 요약 |
-|:---:|:---:|:---:|
-| <img src="assets/note-editor.jpg" alt="서식과 성경 구절이 포함된 노트 편집 화면" width="240"> | <img src="assets/sermon-ai-analysis.jpg" alt="설교 노트의 핵심 요약과 묵상 질문 화면" width="240"> | <img src="assets/bible-ai-summary.jpg" alt="잠언 8장 AI 요약 화면" width="240"> |
-| 서식과 성경 구절을 넣어 기록합니다. | 노트의 핵심을 요약하고 묵상 질문을 제안합니다. | 성경 본문의 핵심을 AI 요약으로 확인합니다. |
+<table>
+  <thead>
+    <tr>
+      <th width="33%" align="center">노트 편집</th>
+      <th width="33%" align="center">설교 노트 AI 분석</th>
+      <th width="33%" align="center">성경 본문 AI 요약</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="top"><img src="assets/note-editor.jpg" alt="서식과 성경 구절이 포함된 노트 편집 화면" width="240"></td>
+      <td align="center" valign="top"><img src="assets/sermon-ai-analysis.jpg" alt="설교 노트의 핵심 요약과 묵상 질문 화면" width="240"></td>
+      <td align="center" valign="top"><img src="assets/bible-ai-summary.jpg" alt="잠언 8장 AI 요약 화면" width="240"></td>
+    </tr>
+    <tr>
+      <td align="center">서식과 성경 구절을 넣어 기록합니다.</td>
+      <td align="center">노트의 핵심을 요약하고 묵상 질문을 제안합니다.</td>
+      <td align="center">성경 본문의 핵심을 AI 요약으로 확인합니다.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 만들게 된 이유
 
